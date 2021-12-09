@@ -4,3 +4,4 @@ Naprawabledu
 Zmiana02
 Zmiana03
 prostaWersja
+zmiana2
