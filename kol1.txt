@@ -7,3 +7,4 @@ prostaWersja
 zmiana2
 zmiana3
 zmianaklon
+zmianaoryg
