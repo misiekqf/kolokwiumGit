@@ -1,2 +1,6 @@
 Zmiana01
+HEAD
 Naprawabledu
+Zmiana02
+Zmiana03
+prostaWersja
